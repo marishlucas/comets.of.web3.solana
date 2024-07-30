@@ -1,0 +1,4 @@
+[submodule "solana-ping-frontend"]
+	path = solana-ping-frontend
+	url = https://github.com/danielpavel/solana-ping-frontend.git
+  branch = starter
